@@ -1,0 +1,12 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Maven target directory
+target/
+
+# Reports and logs
+reports/
+test-output/
+*.log
